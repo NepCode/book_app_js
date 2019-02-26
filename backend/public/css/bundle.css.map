@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./frontend/styles/app.css"],"names":[],"mappings":"AAAA;AACA;AACA,mBAAmB;AACnB,C","file":"css/bundle.css","sourcesContent":["body {\r\n  /*   background: green;\r\n    color:honeydew; */\r\n}"],"sourceRoot":""}
